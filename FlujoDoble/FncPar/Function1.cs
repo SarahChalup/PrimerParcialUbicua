@@ -14,7 +14,7 @@ namespace FncPar
         public static async Task RunAsync(
         [ServiceBusTrigger(
                 "qpar",
-                Connection = "MyConn"
+                Connection = "MyConnp"
             )]string myQueueItem,
      [CosmosDB(
                 databaseName: "DBDoble",
