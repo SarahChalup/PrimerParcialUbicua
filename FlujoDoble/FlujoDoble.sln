@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDoble", "ApiDoble\ApiDoble.csproj", "{CB92AD77-7FCF-4E23-863B-67DDCDA66E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FncPar", "FncPar\FncPar.csproj", "{85278A4B-C8E2-484D-BFDC-8E7A2ABA6A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FncImpar", "FncImpar\FncImpar.csproj", "{2192E19B-94EB-480B-9348-C0DA477E1C9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB92AD77-7FCF-4E23-863B-67DDCDA66E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB92AD77-7FCF-4E23-863B-67DDCDA66E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB92AD77-7FCF-4E23-863B-67DDCDA66E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB92AD77-7FCF-4E23-863B-67DDCDA66E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85278A4B-C8E2-484D-BFDC-8E7A2ABA6A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85278A4B-C8E2-484D-BFDC-8E7A2ABA6A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85278A4B-C8E2-484D-BFDC-8E7A2ABA6A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85278A4B-C8E2-484D-BFDC-8E7A2ABA6A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2192E19B-94EB-480B-9348-C0DA477E1C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2192E19B-94EB-480B-9348-C0DA477E1C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2192E19B-94EB-480B-9348-C0DA477E1C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2192E19B-94EB-480B-9348-C0DA477E1C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A5D0CA2-F018-4DE8-86FE-00E400D2D85C}
+	EndGlobalSection
+EndGlobal
